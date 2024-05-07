@@ -1,6 +1,6 @@
 <?php
    $andi='Andi';
-   $nama = "Budi";
+   $nama = "Rini";
    $umur = 17;
    $pesan = "Saya sedang belajar PHP di duniailkom.com";
    
